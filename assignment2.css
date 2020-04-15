@@ -1,0 +1,20 @@
+#PriceTable th, td{
+  border: 2px solid black; 
+ 
+
+ }
+ #PriceTable{
+    border-collapse: collapse;
+ }
+ #t1{
+    border-collapse: collapse;
+ }
+ #t2{
+    border-collapse: collapse;
+ }
+ #t1{
+    border: 0px;
+ }
+ #t2{
+    border: 0px;
+ }
