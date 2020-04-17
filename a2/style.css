@@ -1,1 +1,7 @@
-/* Insert your styles here */
+td {
+    background-color: red;
+    border: 1px black solid;
+}
+tr:nth-of-type(5) td:nth-of-type(1) {
+    visibility: hidden;
+}
